@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # POS Project
 
 该项目通过模拟一台POS机（收银机），来锻炼学员的JavaScript编程能力。
@@ -18,3 +19,6 @@
 
 1. 请尽可能的使用命令行完成相关操作；
 2. 使用Git管理代码时请尽可能的遵照[Git使用的最佳实践](https://github.com/iamcoach/git)。
+=======
+# pos_realize
+>>>>>>> a66bc3000c76e4e273383d0e5c4cff8937fa8e77
